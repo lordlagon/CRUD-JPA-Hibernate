@@ -16,9 +16,7 @@ public class Cliente {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
 	
-	//sdfgdsuyfgasuydfga
 	
-	//laskdflsa
 	
 	@Column 
 	private String nome;
