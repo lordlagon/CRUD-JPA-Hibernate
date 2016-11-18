@@ -16,7 +16,9 @@ public class Cliente {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
 	
-	@Column
+	//sdfgdsuyfgasuydfga
+	
+	@Column 
 	private String nome;
 	@Column
 	private int idade;
