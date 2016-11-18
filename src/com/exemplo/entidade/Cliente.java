@@ -18,6 +18,8 @@ public class Cliente {
 	
 	//sdfgdsuyfgasuydfga
 	
+	//laskdflsa
+	
 	@Column 
 	private String nome;
 	@Column
